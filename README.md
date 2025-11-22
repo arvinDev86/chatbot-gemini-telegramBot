@@ -23,6 +23,7 @@
 
 1. **کلون کردن مخزن (Repository):**
    ```bash
-   git clone https://github.com/username/gemini-telegram-bot.git
+   git clone https://github.com/arvinDev86/chatbot-gemini-telegramBot.git
 
-   cd gemini-telegram-bot
+   cd chatbot-gemini-telegramBot
+
